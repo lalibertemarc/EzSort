@@ -5,6 +5,7 @@
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\INV_Misc_Bag_08
 ## SavedVariables: EzSortDB
+## X-Curse-Project-ID: 1734258
 
 Data.lua
 Core.lua
