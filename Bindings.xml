@@ -1,0 +1,11 @@
+<Bindings>
+	<Binding name="EZSORT_BAGS" category="EzSort">
+		EzSort_SortBags()
+	</Binding>
+	<Binding name="EZSORT_BANK" category="EzSort">
+		EzSort_SortBank()
+	</Binding>
+	<Binding name="EZSORT_REVERSE" category="EzSort">
+		EzSort_ToggleDirection()
+	</Binding>
+</Bindings>
