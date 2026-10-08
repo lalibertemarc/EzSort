@@ -1,5 +1,9 @@
 # EzSort
 
+## v1.0.1
+
+- First release on CurseForge. No changes from v1.0.0.
+
 ## v1.0.0
 
 - First release for WoW Forever.
