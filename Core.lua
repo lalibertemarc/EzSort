@@ -19,7 +19,7 @@ local function Call(name, ...)
 end
 
 local function SortBankApi()
-    if Container.SortBankBags or _G.SortBankBags then return Call("SortBankBags") end
+    if Call("SortBankBags") then return true end
     -- Mainline replaced SortBankBags with a per-bank-type call.
     if Container.SortBank and Enum and Enum.BankType then
         Container.SortBank(Enum.BankType.Character)

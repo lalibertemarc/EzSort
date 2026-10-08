@@ -15,7 +15,7 @@ globals = {
 
 read_globals = {
     -- Lua / WoW utility
-    "_G", "strtrim",
+    "strtrim",
     -- Frames & UI
     "CreateFrame", "UIParent", "GameTooltip", "DEFAULT_CHAT_FRAME", "NORMAL_FONT_COLOR",
     -- Namespaced APIs
