@@ -1,5 +1,9 @@
 # EzSort
 
+## v1.0.2
+
+- Listed under **Bags & Inventory** in the game's AddOns list.
+
 ## v1.0.1
 
 - First release on CurseForge. No changes from v1.0.0.
