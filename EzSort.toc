@@ -3,6 +3,7 @@
 ## Notes: One click to sort your bags and bank, either direction.
 ## Author: Marc
 ## Version: @project-version@
+## Category: Bags & Inventory
 ## IconTexture: Interface\Icons\INV_Misc_Bag_08
 ## SavedVariables: EzSortDB
 ## X-Curse-Project-ID: 1734258
